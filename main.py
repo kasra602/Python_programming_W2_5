@@ -9,6 +9,6 @@ string1substring1 = string1[string1slice1:string1slice2:string1slice3]
 print("The word you inserted is '", string1,"' and in reverse it is '", string1[::-1],"'.", sep="")
 print("The inserted word length is ", string1length,)
 print("Last character is '", string1lastletter, "'", sep="")
-print("Take substring from the insterted word by inserting...")
+print("Take substring from the inserted word by inserting...")
 print("The word '", string1, "' sliced to the defined substring is '", string1substring1, "'.", sep="")
 print("Program ending.")
