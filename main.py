@@ -1,5 +1,5 @@
 print("Program starting.")
-string1 = input("Insert a closed compund word: ")
+string1 = input("Insert a closed compound word: ")
 string1length = len(string1)
 string1lastletter = string1[-1]
 string1slice1 = int(input("1) Starting point: "))
